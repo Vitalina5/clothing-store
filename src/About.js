@@ -12,7 +12,7 @@ function About() {
                 Today is our mission remains the same—making affordable fashion accessible to customers around the world.</p>
             </div>
             <div className="cont">
-                <img className='slide' src={image1} width="900px" height="600px"/>
+                <img className='slide' src={image1} width="900px" height="600px" alt="women"/>
             </div>
             <div className='cont about'>
                 <p className='one'><strong>"WE STAY AHEAD OF THE FASHION CURVE AND THE COMPETITION</strong> BY ENGAGING WITH OUR COMMUNITY EVERY DAY…"</p>

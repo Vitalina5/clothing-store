@@ -4,7 +4,7 @@ function ContactUs() {
     return (
         <div className="container">
     <div className="contact-image">
-        <img className='phone' src={image3} width="500" height="650px" alt="women"/>
+        <img className='phone' src={image3} width="500" height="650px" alt="phone"/>
     </div>
     <div className="contact-text">
         <div className="cont about">
